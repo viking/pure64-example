@@ -1,0 +1,6 @@
+[submodule "vendor/pure64"]
+	path = vendor/pure64
+	url = https://github.com/viking/Pure64.git
+[submodule "vendor/baremetal-os"]
+	path = vendor/baremetal-os
+	url = https://github.com/ReturnInfinity/BareMetal-OS.git
